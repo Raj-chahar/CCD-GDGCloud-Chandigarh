@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: #fff;
+}
+.code{
+    display: grid;
+    padding: 15vh 10vw;
+    padding-bottom: 2vh;
+    place-content: center;
+    text-align: center;
+    }
+.code h1{
+    color: #f2bf42;
+    font-size: 50px;
+    margin: 0;
+}
+#codeH2{
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 2.5vh;
+    text-align: center;
+}
+.code_hr{
+    color: grey;
+    border: none;
+    border-bottom: solid grey 1px ;
+}
+
+.code p{
+    margin-top: 0;
+    text-align: left;
+}
+
+.code h2{
+    text-align: left;
+    color: #fff;
+    margin-bottom: 0;
+}

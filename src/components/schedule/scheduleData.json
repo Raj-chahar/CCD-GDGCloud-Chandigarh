@@ -1,0 +1,105 @@
+[
+    {
+      "time": "09:00 AM - 09:45 AM",
+      "title": "Registration",
+      "description": "",
+      "speaker": ""
+    },
+    {
+      "time": "09:45 AM - 10:00 AM",
+      "title": "Opening Remarks",
+      "description": "Welcome and opening remarks.",
+      "speaker": ""
+    },
+    {
+      "time": "10:00 AM - 10:30 AM",
+      "title": "Keynote",
+      "description": "Keynote speech by Cherish Santoshi.",
+      "speaker": "Cherish Santoshi"
+    },
+    {
+      "time": "10:30 AM - 11:10 AM",
+      "title": "1st Speaker Session",
+      "description": "What's New in Angular - Google IO Updates by Pranav Kumar.",
+      "speaker": "Pranav Kumar"
+    },
+    {
+      "time": "11:10 AM - 11:20 AM",
+      "title": "Q&A Session",
+      "description": "Interactive Q&A session with the speaker.",
+      "speaker": ""
+    },
+    {
+      "time": "11:20 AM - 12:00 PM",
+      "title": "2nd Speaker Session",
+      "description": "Dart on Cloud Run for Flutter Developers to Go Full-Stack! by Aditya Thakur.",
+      "speaker": "Aditya Thakur"
+    },
+    {
+      "time": "12:00 PM - 12:10 PM",
+      "title": "Q&A Session",
+      "description": "Interactive Q&A session with the speaker.",
+      "speaker": ""
+    },
+    {
+      "time": "12:10 PM - 12:30 PM",
+      "title": "Content Contest",
+      "description": "Engage in a creative content competition.",
+      "speaker": ""
+    },
+    {
+      "time": "12:30 PM - 01:30 PM",
+      "title": "Break",
+      "description": "Lunch break and networking opportunity",
+      "speaker": ""
+    },
+    {
+      "time": "01:30 PM - 02:10 PM",
+      "title": "3rd Speaker Session",
+      "description": "Optimizing Memory for Efficient GenAI Deployment by Akash Chandra.",
+      "speaker": "Akash Chandra"
+    },
+    {
+      "time": "02:10 PM - 02:20 PM",
+      "title": "Q&A Session",
+      "description": "Interactive Q&A session with the speaker.",
+      "speaker": ""
+    },
+    {
+      "time": "02:20 PM - 03:00 PM",
+      "title": "4th Speaker Session",
+      "description": "Leverage Google Cloud to Enable Modern Data Analytics by Nirav Kothari.",
+      "speaker": "Nirav Kothari"
+    },
+    {
+      "time": "03:00 PM - 03:10 PM",
+      "title": "Q&A Session",
+      "description": "Interactive Q&A session with the speaker.",
+      "speaker": ""
+    },
+    {
+      "time": "03:10 PM - 03:50 PM",
+      "title": "5th Speaker Session",
+      "description": "Run and Scale Your Business with Google Cloud Run by Gaurav Maadan.",
+      "speaker": "Gaurav Maadan"
+    },
+    {
+      "time": "03:50 PM - 04:00 PM",
+      "title": "Q&A Session",
+      "description": "Interactive Q&A session with the speaker.",
+      "speaker": ""
+    },
+    {
+      "time": "04:00 PM - 04:30 PM",
+      "title": "Cultural Performance",
+      "description": "Enjoy a vibrant cultural performance.",
+      "speaker": ""
+    },
+    {
+      "time": "04:30 PM - 05:00 PM",
+      "title": "Swag Distribution and Closing",
+      "description": "Distribution of swag and final remarks",
+      "speaker": ""
+    }
+  ]
+  

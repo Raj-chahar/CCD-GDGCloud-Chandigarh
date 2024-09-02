@@ -1,0 +1,93 @@
+.hero{
+    height: 125vh;
+    padding: 5vh;
+    margin: 0;
+    background-color: #fff;
+    text-align: center;
+    display: grid;
+    place-content: center;
+}
+
+.hero_text1{
+    width: 70vw;
+}
+.hero .hero_text1 h1{
+    color: #000;
+    font-size: 60px;
+}
+.hero .hero_text1 h2{
+    font-size: 25px;
+    color: rgba(0, 0, 0, .75);
+}
+.hero .hero_text1 p{
+    font-size: 25px;
+    color: rgba(0, 0, 0, .75);
+}
+.hero_text1 .pastSponsors .sp_grid{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+}
+.sp_grid img{
+    width: 250px;
+}
+#Speakers{
+    color: #4e7cdb;
+    margin-bottom: 0;
+}
+
+@media (max-width: 1300px){
+    .hero{
+        height: auto;
+    }
+    .hero_text1 .pastSponsors{
+        display: grid;
+        place-content: center;
+    }
+
+    .hero_text1 .pastSponsors .sp_grid{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+    .hero .hero_text1 h1{
+        font-size: 40px;
+    }
+    .hero .hero_text1 p{
+        font-size: 25px;
+        color: black;
+    }
+}
+
+@media (max-width: 1000px){
+    .gdgdev{
+        width: 300px;
+    }
+    .hero_text1 .pastSponsors{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .hero_text1 .pastSponsors .sp_grid{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .hero .hero_text1 h1{
+        font-size: 40px;
+    }
+    .hero .hero_text1 p{
+        font-size: 20px;
+        color: black;
+    }
+}
+@media (max-width: 800px){
+    .hero_text1{
+        width: 75vw;
+    }
+    .hero .hero_text1 h1{
+        font-size: 30px;
+    }
+    .hero .hero_text1 p{
+        font-size: 15px;
+        color: black;
+    }
+}

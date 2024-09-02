@@ -1,0 +1,26 @@
+body{
+    background-color: #000;
+}
+.Speaker{
+    width: 100%;
+    background-color: black;
+    display: grid;
+    place-content: center;
+    text-align: center;
+    margin-top: 0vh;
+    padding: 10vh 2vw;
+    padding-bottom: 0vh;
+}
+.Speaker h1{
+    color: #f2bf42;
+    margin: 0;
+    font-size: xxx-large;
+}
+.Speaker h2{
+    margin-top: 0;
+    color: #fff;
+    font-size: large;
+}
+.Speaker2{
+    padding-top: 0vh;
+}

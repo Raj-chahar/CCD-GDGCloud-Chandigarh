@@ -1,0 +1,43 @@
+.Team{
+    background-color: #000;
+    display: grid;
+    align-items: center;
+    justify-content: center;
+    place-content: center;
+    text-align: center;
+    padding: 10vh;
+}
+.teamGrid{
+    display: grid;
+    place-content: center;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+.Team h1{
+    color: #f2bf42;
+    margin: 0;
+    font-size: xxx-large;
+}
+.Team h6{
+    margin-top: 0;
+    color: #fff;
+    font-size: large;
+}
+
+@media (max-width: 1040px){
+    .teamGrid{
+        display: grid;
+        place-content: center;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px;
+    }
+}
+@media (max-width: 768px){
+    .teamGrid{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        place-content: center;
+    }
+}

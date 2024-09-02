@@ -1,0 +1,40 @@
+.hello_container{
+  height: 40vh;
+  width: fit-content;
+  display: grid;
+  place-content: center;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  padding: 0vh 10vw;
+  color: white;
+  margin-bottom: 0;
+}
+
+.hello_container .typed_text {
+  font-size: 4rem;
+  color: #ffc107;
+}
+
+.Hello_text{
+  font-size: larger;
+}
+@media (max-width: 1300px){
+  .hello_container{
+    height : 40vh;
+    width: fit-content;
+  }
+
+}
+@media (max-width: 900px){
+  .hello_container{
+    height : 60vh;
+    width: fit-content;
+  }
+}
+@media (max-width: 600px){
+  .hello_container{
+    height : 60vh;
+    width: fit-content;
+  }
+}
